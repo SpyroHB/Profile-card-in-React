@@ -2,13 +2,13 @@
 
 ## Project Image
 
-##Project Image
 ![Project image](./images/project_img.jpg)
 
-##How it is done:
+## How it is done:
+
 Following along with a YouTube Vido while re-editing the components to make it more personal Project.
 Almost all project was hard-coded but in future project i will use a Props and Use databases to not hard-code.
-##Steps:
+## Steps:
 
 - In Components we have 2 files Card.js and Card.css,Whole project is coded there and linking it to App.js,
   because project is small and simple and it doesn't need to be seprated "Over Engineered"
