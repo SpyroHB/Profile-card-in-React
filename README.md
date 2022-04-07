@@ -1,4 +1,6 @@
-#Challenge : Building a profile card using React Components
+# Challenge : Building a profile card using React Components
+
+## Project Image
 
 ##Project Image
 ![Project image](./images/project_img.jpg)
